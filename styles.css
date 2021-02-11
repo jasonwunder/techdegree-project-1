@@ -213,3 +213,13 @@ h3 {
   border-radius: 10px;
   margin-top: 50px;
 }
+
+.photo-card {
+  margin: 30px;
+  padding: 20px 40px 40px;
+  max-width: 1600px;
+  text-align: center;
+  background: #fbeec1;
+  border-bottom: 4px solid #ccc;
+  border-radius: 6px;
+}
